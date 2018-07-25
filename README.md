@@ -1,4 +1,7 @@
 # ukukhiya
+
+(Development will resume August 2018)
+
 Login System and Cyber Key Generator
 
 The overall goals of this project are to:
