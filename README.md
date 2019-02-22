@@ -1,6 +1,6 @@
 # ukukhiya
 
-(Development will resume August 2018)
+(Development will resume April 2019)
 
 Login System and Cyber Key Generator
 
